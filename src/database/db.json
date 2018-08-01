@@ -1,0 +1,94 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "tip":"Macka",
+            "pol": "Muski",
+            "uzrast": "Odrasla Macka",
+            "mesto": "Beograd",
+            "vlasnik": "Azil",
+            "kontakt": "",
+            "img_path": "./src//images/cats/1/img1.jpg"
+        },
+        {
+            "id": 2,
+            "tip":"",
+            "pol": "Muski",
+            "uzrast": "Mlada macka",
+            "mesto": "Jagodina",
+            "vlasnik": "Jovan Jovanovic",
+            "kontakt": "",
+            "img_path": "./src//images/cats/2/img1.jpg"
+        },
+        {
+            "id": 3,
+            "tip":"Macka",
+            "pol": "Zenski",
+            "uzrast": "Odrasla macka",
+            "mesto": "Nis",
+            "vlasnik": "Azil",
+            "kontakt": "",
+            "img_path": "./src//images/cats/3/img1.jpg"
+        },
+        {
+            "id": 4,
+            "tip":"Macka",
+            "pol": "Zenki",
+            "uzrast": "Mace",
+            "mesto": "Beograd",
+            "vlasnik": "Petar Petrovic",
+            "kontakt": "",
+            "img_path": "./src//images/cats/4/img1.jpg"
+        },
+        {
+            "id": 5,
+            "tip":"Pas",
+            "pol": "Zenski",
+            "uzrast": "Mlad pas",
+            "mesto": "Novi Sad",
+            "vlasnik": "Milan Ilic",
+            "kontakt": "",
+            "img_path": ""
+        },
+        {
+            "id": 6,
+            "tip":"",
+            "pol": "",
+            "uzrast": "",
+            "mesto": "",
+            "vlasnik": "",
+            "kontakt": "",
+            "img_path": ""
+        },
+        {
+            "id": 7,
+            "tip":"",
+            "pol": "",
+            "uzrast": "",
+            "mesto": "",
+            "vlasnik": "",
+            "kontakt": "",
+            "img_path": ""
+        },
+        {
+            "id": 8,
+            "tip":"",
+            "pol": "",
+            "uzrast": "",
+            "mesto": "",
+            "vlasnik": "",
+            "kontakt": "",
+            "img_path": ""
+        },
+        {
+            "id": 9,
+            "tip":"",
+            "pol": "",
+            "uzrast": "",
+            "mesto": "",
+            "vlasnik": "",
+            "kontakt": "",
+            "img_path": ""
+        }
+    ]
+}
