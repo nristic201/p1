@@ -4,7 +4,7 @@
             "id": 1,
             "tip":"Macka",
             "pol": "Muski",
-            "uzrast": "Odrasla Macka",
+            "uzrast": "Odrasla macka",
             "mesto": "Beograd",
             "vlasnik": "Azil",
             "kontakt": "",
@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "tip":"",
+            "tip":"Macka",
             "pol": "Muski",
             "uzrast": "Mlada macka",
             "mesto": "Jagodina",
